@@ -60,7 +60,9 @@ const QuizConcluido = ({route, navigation}) => {
               {" "}
               Você acertou {pontos}/{numQuestions} das questões, agora é um(a) Super Estrela.{" "}
             </Text>
+
           </View>
+
           <View style={{ width: "60%" }}>
             <Buttoncomponent
               color={TEMA_CORES.primaryblue}

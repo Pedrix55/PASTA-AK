@@ -4,7 +4,7 @@ import { TEMA_CORES } from '../styles/color';
 
 
 
-const Buttoncomponent = ({ fpress, stylebutton, title, color = TEMA_CORES.primaryblue, buttonColor=TEMA_CORES.secundarypink }) => {
+const  Buttoncomponent = ({ fpress, stylebutton, title, color = TEMA_CORES.primaryblue, buttonColor=TEMA_CORES.secundarypink }) => {
 
 
     return (

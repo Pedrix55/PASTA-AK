@@ -1,53 +1,326 @@
 [
+  
+  
     {
-      "pergunta": "Qual é o maior planeta do nosso sistema solar?",
-      "alternativas": ["Marte", "Vênus", "Júpiter", "Saturno"],
-      "resposta": "Júpiter"
+      "pergunta": "Qual é o resultado da seguinte operação: 7 + 3?",
+      "alternativas": ["a) 10", "b) 14", "c) 21", "d) 4"],
+      "resposta": "a) 10"
     },
     {
-      "pergunta": "Qual é o país com a maior população do mundo?",
-      "alternativas": ["Índia", "Estados Unidos", "China", "Brasil"],
-      "resposta": "China"
+      "pergunta": "Qual é o valor de π (pi) aproximado?",
+      "alternativas": ["a) 3.14", "b) 2.71", "c) 1.61", "d) 4.23"],
+      "resposta": "a) 3.14"
     },
     {
-      "pergunta": "Qual é a capital do Canadá?",
-      "alternativas": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
-      "resposta": "Ottawa"
+      "pergunta": "Qual é o resultado da seguinte operação: 5 x 8?",
+      "alternativas": ["a) 45", "b) 40", "c) 13", "d) 64"],
+      "resposta": "b) 40"
     },
     {
-      "pergunta": "Quem escreveu a obra 'Dom Quixote'?",
-      "alternativas": ["Miguel de Cervantes", "William Shakespeare", "F. Scott Fitzgerald", "Leo Tolstoy"],
-      "resposta": "Miguel de Cervantes"
+      "pergunta": "Qual é o resultado da seguinte operação: 12 ÷ 4?",
+      "alternativas": ["a) 2", "b) 3", "c) 4", "d) 6"],
+      "resposta": "b) 3"
     },
     {
-      "pergunta": "Qual é o rio mais longo do mundo?",
-      "alternativas": ["Rio Nilo", "Rio Amazonas", "Rio Mississippi", "Rio Yangtzé"],
-      "resposta": "Rio Amazonas"
+      "pergunta": "Qual é a raiz quadrada de 25?",
+      "alternativas": ["a) 5", "b) 10", "c) 15", "d) 25"],
+      "resposta": "a) 5"
     },
     {
-      "pergunta": "Qual é o elemento químico mais abundante na crosta terrestre?",
-      "alternativas": ["Hidrogênio", "Oxigênio", "Silício", "Alumínio"],
-      "resposta": "Oxigênio"
+      "pergunta": "Qual é o resultado da seguinte operação: 9 - 7?",
+      "alternativas": ["a) 14", "b) 2", "c) 16", "d) 0"],
+      "resposta": "b) 2"
     },
     {
-      "pergunta": "Quem pintou a 'Mona Lisa'?",
-      "alternativas": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Michelangelo"],
-      "resposta": "Leonardo da Vinci"
+      "pergunta": "Qual é o resultado da seguinte operação: 6² (6 elevado à segunda potência)?",
+      "alternativas": ["a) 12", "b) 36", "c) 72", "d) 18"],
+      "resposta": "b) 36"
     },
     {
-      "pergunta": "Quantos planetas fazem parte do sistema solar?",
-      "alternativas": ["5", "8", "9", "10"],
-      "resposta": "8"
+      "pergunta": "Qual é o resultado da seguinte operação: 15 + 8 - 3?",
+      "alternativas": ["a) 20", "b) 10", "c) 5", "d) 25"],
+      "resposta": "a) 20"
     },
     {
-      "pergunta": "Qual é a maior cordilheira do mundo?",
-      "alternativas": ["Cordilheira dos Andes", "Montanhas Rochosas", "Cordilheira do Himalaia", "Cordilheira dos Alpes"],
-      "resposta": "Cordilheira dos Andes"
+      "pergunta": "Qual é o resultado da seguinte operação: (10 ÷ 2) x 4?",
+      "alternativas": ["a) 20", "b) 10", "c) 15", "d) 5"],
+      "resposta": "a) 20"
     },
     {
-      "pergunta": "Quem foi o primeiro ser humano a pisar na Lua?",
-      "alternativas": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
-      "resposta": "Neil Armstrong"
+      "pergunta": "Qual é o valor de 2³ (2 elevado à terceira potência)?",
+      "alternativas": ["a) 8", "b) 6", "c) 16", "d) 12"],
+      "resposta": "a) 8"
     }
+  
+  ,
+
+
+    {
+      "pergunta": "Qual é o plural de 'casa'?",
+      "alternativas": ["a) casas", "b) casaes", "c) casais", "d) case"],
+      "resposta": "a) casas"
+    },
+    {
+      "pergunta": "Qual é o antônimo de 'alegre'?",
+      "alternativas": ["a) triste", "b) feliz", "c) contente", "d) radiante"],
+      "resposta": "a) triste"
+    },
+    {
+      "pergunta": "Qual é a figura de linguagem que consiste na repetição de sons consonantais no início das palavras?",
+      "alternativas": ["a) metáfora", "b) aliteração", "c) anáfora", "d) hipérbole"],
+      "resposta": "b) aliteração"
+    },
+    {
+      "pergunta": "Qual é o sujeito da frase 'O gato preto cruzou a rua correndo'?",
+      "alternativas": ["a) gato preto", "b) cruzou", "c) rua", "d) correndo"],
+      "resposta": "a) gato preto"
+    },
+    {
+      "pergunta": "Qual é o plural de 'país'?",
+      "alternativas": ["a) paísos", "b) paízes", "c) páises", "d) países"],
+      "resposta": "d) países"
+    },
+    {
+      "pergunta": "Qual é o verbo na forma imperativa na frase 'Feche a porta'?",
+      "alternativas": ["a) Feche", "b) porta", "c) a", "d) a porta"],
+      "resposta": "a) Feche"
+    },
+    {
+      "pergunta": "Qual é a função da conjunção na frase 'Eu gosto de estudar, mas detesto fazer provas'?",
+      "alternativas": ["a) Substantivo", "b) Verbo", "c) Conjunção", "d) Advérbio"],
+      "resposta": "c) Conjunção"
+    },
+    {
+      "pergunta": "O que é um sinônimo de 'rápido'?",
+      "alternativas": ["a) lento", "b) veloz", "c) pequeno", "d) alto"],
+      "resposta": "b) veloz"
+    },
+    {
+      "pergunta": "Qual é a forma correta da palavra composta que significa 'meio-dia'?",
+      "alternativas": ["a) meio dia", "b) meiodia", "c) meio-dia", "d) meiodía"],
+      "resposta": "c) meio-dia"
+    },
+    {
+      "pergunta": "Qual é a classe gramatical da palavra 'amor'?",
+      "alternativas": ["a) Verbo", "b) Adjetivo", "c) Substantivo", "d) Advérbio"],
+      "resposta": "c) Substantivo"
+    },
+
+    
+
+
+
+      {
+        "pergunta": "Quem foi o primeiro imperador romano?",
+        "alternativas": ["a) Júlio César", "b) Augusto", "c) Nero", "d) Marco Aurélio"],
+        "resposta": "b) Augusto"
+      },
+      {
+        "pergunta": "Qual foi a guerra entre os estados do norte e do sul dos Estados Unidos na década de 1860?",
+        "alternativas": ["a) Guerra das Rosas", "b) Guerra Fria", "c) Guerra Civil Americana", "d) Guerra Revolucionária Americana"],
+        "resposta": "c) Guerra Civil Americana"
+      },
+      {
+        "pergunta": "Quem foi o líder do movimento de independência da Índia e defensor da não violência?",
+        "alternativas": ["a) Nelson Mandela", "b) Mahatma Gandhi", "c) Winston Churchill", "d) Martin Luther King Jr."],
+        "resposta": "b) Mahatma Gandhi"
+      },
+      {
+        "pergunta": "Qual foi a capital do Império Romano do Ocidente antes de sua queda?",
+        "alternativas": ["a) Roma", "b) Constantinopla", "c) Atenas", "d) Cartago"],
+        "resposta": "a) Roma"
+      },
+      {
+        "pergunta": "Qual foi o evento que marcou o início da Revolução Francesa em 1789?",
+        "alternativas": ["a) A Revolta dos Camponeses", "b) O Julgamento de Luís XVI", "c) A Queda da Bastilha", "d) O Reinado do Terror"],
+        "resposta": "c) A Queda da Bastilha"
+      },
+      {
+        "pergunta": "Quem foi o líder da União Soviética durante a maior parte da Guerra Fria?",
+        "alternativas": ["a) Vladimir Putin", "b) Josef Stalin", "c) Mikhail Gorbachev", "d) Leon Trotsky"],
+        "resposta": "b) Josef Stalin"
+      },
+      {
+        "pergunta": "Qual foi a civilização que construiu as famosas pirâmides no Egito?",
+        "alternativas": ["a) Sumérios", "b) Romanos", "c) Egípcios", "d) Gregos"],
+        "resposta": "c) Egípcios"
+      },
+      {
+        "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "alternativas": ["a) Benjamin Franklin", "b) Thomas Jefferson", "c) George Washington", "d) John Adams"],
+        "resposta": "c) George Washington"
+      },
+      {
+        "pergunta": "Qual foi o tratado que encerrou a Primeira Guerra Mundial?",
+        "alternativas": ["a) Tratado de Tordesilhas", "b) Tratado de Versalhes", "c) Tratado de Viena", "d) Tratado de Londres"],
+        "resposta": "b) Tratado de Versalhes"
+      },
+      {
+        "pergunta": "Qual foi a dinastia que governou a China por mais de 2.000 anos?",
+        "alternativas": ["a) Han", "b) Tang", "c) Qing", "d) Ming"],
+        "resposta": "a) Han"
+      },
+    
+    
+
+    {
+      "pergunta": "O que significa a sigla 'URL'?",
+      "alternativas": ["a) Universal Resource Locator", "b) Uniform Resource Locator", "c) Universal Resource Link", "d) Uniform Resource Link"],
+      "resposta": "b) Uniform Resource Locator"
+    },
+    {
+      "pergunta": "Qual dos seguintes não é um sistema operacional?",
+      "alternativas": ["a) Windows", "b) MacOS", "c) Linux", "d) Office"],
+      "resposta": "d) Office"
+    },
+    {
+      "pergunta": "O que é um 'firewall'?",
+      "alternativas": ["a) Um programa de edição de imagens", "b) Um dispositivo de rede que controla o tráfego", "c) Um software de gerenciamento de projetos", "d) Um aplicativo de mensagens instantâneas"],
+      "resposta": "b) Um dispositivo de rede que controla o tráfego"
+    },
+    {
+      "pergunta": "O que é um 'backup' de dados?",
+      "alternativas": ["a) Um arquivo de log", "b) Uma cópia de segurança de informações", "c) Um tipo de vírus de computador", "d) Um protocolo de rede"],
+      "resposta": "b) Uma cópia de segurança de informações"
+    },
+    {
+      "pergunta": "Qual linguagem de programação é amplamente usada para desenvolver páginas web interativas?",
+      "alternativas": ["a) Java", "b) Python", "c) JavaScript", "d) C++"],
+      "resposta": "c) JavaScript"
+    },
+    {
+      "pergunta": "O que significa 'CPU'?",
+      "alternativas": ["a) Central Processing Unit", "b) Computer Personal Unit", "c) Control Panel Unit", "d) Central Personal Unit"],
+      "resposta": "a) Central Processing Unit"
+    },
+    {
+      "pergunta": "Qual destes é um serviço de armazenamento em nuvem oferecido pela Google?",
+      "alternativas": ["a) iCloud", "b) Dropbox", "c) Google Drive", "d) OneDrive"],
+      "resposta": "c) Google Drive"
+    },
+    {
+      "pergunta": "O que é um 'vírus de computador'?",
+      "alternativas": ["a) Um tipo de software de segurança", "b) Um dispositivo de armazenamento externo", "c) Um programa que se replica e causa danos ao sistema", "d) Um navegador de internet"],
+      "resposta": "c) Um programa que se replica e causa danos ao sistema"
+    },
+    {
+      "pergunta": "O que é um 'IP address'?",
+      "alternativas": ["a) Um endereço de email", "b) Um número de telefone", "c) Um identificador único atribuído a um dispositivo na rede", "d) Uma senha de acesso"],
+      "resposta": "c) Um identificador único atribuído a um dispositivo na rede"
+    },
+    {
+      "pergunta": "Qual destas não é uma linguagem de programação?",
+      "alternativas": ["a) HTML", "b) CSS", "c) MySQL", "d) Photoshop"],
+      "resposta": "d) Photoshop"
+    },
+    
+      {
+        "pergunta": "Quem é o pintor renascentista conhecido por criar a 'Mona Lisa'?",
+        "alternativas": ["a) Pablo Picasso", "b) Vincent van Gogh", "c) Leonardo da Vinci", "d) Michelangelo"],
+        "resposta": "c) Leonardo da Vinci"
+      },
+      {
+        "pergunta": "Qual movimento artístico caracteriza as obras de Vincent van Gogh, como 'Noite Estrelada'?",
+        "alternativas": ["a) Renascimento", "b) Cubismo", "c) Impressionismo", "d) Expressionismo"],
+        "resposta": "d) Expressionismo"
+      },
+      {
+        "pergunta": "Quem é o autor da escultura 'O Pensador'?",
+        "alternativas": ["a) Auguste Rodin", "b) Michelangelo", "c) Salvador Dalí", "d) Pablo Picasso"],
+        "resposta": "a) Auguste Rodin"
+      },
+      {
+        "pergunta": "Qual estilo artístico é conhecido por suas formas geométricas e uso de cores primárias, exemplificado por obras como 'Composição em Vermelho, Azul e Amarelo'?",
+        "alternativas": ["a) Surrealismo", "b) Cubismo", "c) Impressionismo", "d) Barroco"],
+        "resposta": "b) Cubismo"
+      },
+      {
+        "pergunta": "Quem é o autor da obra 'A Noite Estrelada'?",
+        "alternativas": ["a) Pablo Picasso", "b) Salvador Dalí", "c) Vincent van Gogh", "d) Henri Matisse"],
+        "resposta": "c) Vincent van Gogh"
+      },
+      {
+        "pergunta": "Qual é o nome da famosa escultura de Michelangelo que representa um homem nu em pé com proporções perfeitas?",
+        "alternativas": ["a) O Beijo", "b) Davi", "c) A Pietà", "d) Adão"],
+        "resposta": "b) Davi"
+      },
+      {
+        "pergunta": "Quem é a autora do quadro 'A Boneca Russa'?",
+        "alternativas": ["a) Frida Kahlo", "b) Georgia O'Keeffe", "c) Mary Cassatt", "d) Natalia Goncharova"],
+        "resposta": "a) Frida Kahlo"
+      },
+      {
+        "pergunta": "Qual é a técnica artística que envolve a criação de imagens utilizando pequenos pedaços de vidro colorido ou outros materiais?",
+        "alternativas": ["a) Aquarela", "b) Mosaico", "c) Gravura", "d) Escultura"],
+        "resposta": "b) Mosaico"
+      },
+      {
+        "pergunta": "Qual é a cor complementar do vermelho?",
+        "alternativas": ["a) Azul", "b) Verde", "c) Amarelo", "d) Laranja"],
+        "resposta": "a) Azul"
+      },
+      {
+        "pergunta": "Quem é o autor da famosa obra 'O Grito'?",
+        "alternativas": ["a) Pablo Picasso", "b) Henri Matisse", "c) Edvard Munch", "d) Wassily Kandinsky"],
+        "resposta": "c) Edvard Munch"
+      },
+
+        {
+          "pergunta": "Qual é o nome do esporte que envolve o uso de uma prancha para deslizar sobre a água?",
+          "alternativas": ["a) Surfe", "b) Esqui aquático", "c) Windsurf", "d) Natação"],
+          "resposta": "a) Surfe"
+        },
+        {
+          "pergunta": "Qual é o nome da arte marcial japonesa que enfatiza os golpes de projeção e imobilização?",
+          "alternativas": ["a) Karatê", "b) Jiu-Jitsu", "c) Taekwondo", "d) Judô"],
+          "resposta": "d) Judô"
+        },
+        {
+          "pergunta": "Qual é o nome do esporte que envolve a subida de paredes e obstáculos usando apenas as mãos e pés?",
+          "alternativas": ["a) Montanhismo", "b) Escalada esportiva", "c) Rapel", "d) Parkour"],
+          "resposta": "b) Escalada esportiva"
+        },
+        {
+          "pergunta": "Quantos jogadores compõem uma equipe de futebol em campo, incluindo o goleiro?",
+          "alternativas": ["a) 10", "b) 11", "c) 12", "d) 9"],
+          "resposta": "b) 11"
+        },
+        {
+          "pergunta": "Qual é o nome do esporte que envolve a prática de movimentos acrobáticos e saltos em trampolins?",
+          "alternativas": ["a) Ginástica rítmica", "b) Trampolim acrobático", "c) Patinação artística", "d) Salto em altura"],
+          "resposta": "b) Trampolim acrobático"
+        },
+        {
+          "pergunta": "Qual é o nome do esporte que envolve a realização de acrobacias aéreas em uma prancha deslizante na neve?",
+          "alternativas": ["a) Esqui alpino", "b) Snowboard", "c) Patinação no gelo", "d) Esqui estilo livre"],
+          "resposta": "b) Snowboard"
+        },
+        {
+          "pergunta": "Qual é o nome do esporte que envolve o uso de arco e flecha?",
+          "alternativas": ["a) Tiro com arco", "b) Esgrima", "c) Pentatlo moderno", "d) Canoagem"],
+          "resposta": "a) Tiro com arco"
+        },
+        {
+          "pergunta": "Qual é o nome do evento esportivo que reúne atletas de todo o mundo a cada 4 anos, como os Jogos Olímpicos?",
+          "alternativas": ["a) Copa do Mundo", "b) Campeonato Mundial", "c) Olimpíadas", "d) Copa das Confederações"],
+          "resposta": "c) Olimpíadas"
+        },
+        {
+          "pergunta": "Qual é o nome do esporte que envolve a prática de movimentos acrobáticos em uma trave elevada?",
+          "alternativas": ["a) Ginástica rítmica", "b) Ginástica artística", "c) Salto em distância", "d) Hóquei"],
+          "resposta": "b) Ginástica artística"
+        },
+        {
+          "pergunta": "Qual é o nome da atividade física que envolve a execução de sequências de movimentos rítmicos e coreografados ao som da música?",
+          "alternativas": ["a) Dança", "b) Yoga", "c) Levantamento de peso", "d) Atletismo"],
+          "resposta": "a) Dança"
+        }
+      
+      
+    
+    
   ]
+  
+  
+
   
