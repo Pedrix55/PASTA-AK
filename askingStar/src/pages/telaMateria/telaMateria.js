@@ -5,26 +5,36 @@ const TelaMateria = ({ navigation }) => {
     const Card = [
         {
             id: 'portugues',
+            name: "portugues",
             source: require('../../../img/imgs/materias/portugues.png')
         },
         {
             id: 'matematica',
+            name:  'matematica',
+    
             source: require('../../../img/imgs/materias/matematica.png')
         },
         {
             id: 'historia',
+            name:'historia',
+
             source: require('../../../img/imgs/materias/historia.png')
         },
         {
             id: 'artes',
+            name: 'artes',
+
             source: require('../../../img/imgs/materias/artes.png')
         },
         {
             id: "informatica",
+            name: "informatica",
+
             source: require('../../../img/imgs/materias/informatica.png')
         },
         {
             id: 'educacao-fisica',
+            name: 'educacao-fisica',
             source: require('../../../img/imgs/materias/educacaofisica.png')
         }
 
@@ -51,7 +61,7 @@ const TelaMateria = ({ navigation }) => {
             }}>
                 <Image source={require('../../../img/icons/icon-menu-materia.png')} />
                 <Text style={{ fontSize: 25, fontWeight: "bold", color: "white" }}>
-                    MATERIA  </Text>
+                    {} </Text>
             </View>
 
 
@@ -68,6 +78,7 @@ const TelaMateria = ({ navigation }) => {
                         }}>
                             <Pressable onPress={() => navigation.navigate("Game", { id: item.id })}>
                                 <Image source={item.source} />
+                                <Text>{item.name}</Text>
                             </Pressable>
                             <View style={{
                                 marginVertical: 5,
