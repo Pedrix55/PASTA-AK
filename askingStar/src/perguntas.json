@@ -23,7 +23,7 @@
     },
     {
       "pergunta": "Qual é a raiz quadrada de 25?",
-      "alternativas": ["a) 5", "b) 10", "c) 15", "d) 25"],
+      "alternativas": ["a) 5", "b) 1", "c) 15", "d) 25"],
       "resposta": "a) 5"
     },
     {
